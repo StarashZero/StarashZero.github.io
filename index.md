@@ -7,4 +7,5 @@
 1. [软件工程导论（已完结）](https://starashzero.github.io/swi-homework/)  
 2. [计算机组成原理实验，单多周期CPU(已完结)](https://starashzero.github.io/Co-homework/)
 3. [Web程序设计(已完结)](https://starashzero.github.io/Web-homework/)
-4. [操作系统实验-Ucore(进行中)](https://starashzero.github.io/Ucore-homework/)
+4. [操作系统实验-Ucore(已完结)](https://starashzero.github.io/Ucore-homework/)  
+5. [服务计算(进行中)](https://starashzero.github.io/ServerComputing)
