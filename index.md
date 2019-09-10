@@ -9,3 +9,4 @@
 3. [Web程序设计(已完结)](https://starashzero.github.io/Web-homework/)
 4. [操作系统实验-Ucore(已完结)](https://starashzero.github.io/Ucore-homework/)  
 5. [服务计算(进行中)](https://starashzero.github.io/ServerComputing)
+6. [3D游戏设计与编程(进行中)](https://starashzero.github.io/3DGameDesign)
